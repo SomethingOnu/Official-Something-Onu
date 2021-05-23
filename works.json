@@ -39,7 +39,7 @@
         "category"    : "Multi Content & Service"
     },
     {
-        "type"        : "work",
+        "type"        : "-work",
         "link"        : "https://www.skaldworld.com/",
         "name"        : "Skald World",
         "explanation" : "ダークファンタジーを舞台にしたMMORPGがプレイできるMinecraftサーバー"
