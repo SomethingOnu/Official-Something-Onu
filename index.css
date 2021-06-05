@@ -95,11 +95,14 @@ main > div {
 }
 #profile-2 > table th {
     text-align: center;
-    padding: 6px;
+    white-space: nowrap;
+    display: block;
+    margin: 6px;
     font-weight: 500;
     font-size: 14px;
     color: var(--black);
-    background: linear-gradient(
+    background-color: var(--gray);
+    /* background: linear-gradient(
         to bottom,
         transparent 0%,
         transparent 20%,
@@ -107,7 +110,7 @@ main > div {
         var(--gray) 80%,
         transparent 80%,
         transparent 100%
-    );
+    ); */
 }
 #profile-2 > table td {
     padding: 6px;
@@ -262,6 +265,7 @@ main > div {
     }
     #profile-7div2,
     #notice,
+    #profile-2,
     #profile-4 {
         width: 330px;
     }
