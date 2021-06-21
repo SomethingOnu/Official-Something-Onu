@@ -87,6 +87,12 @@
     },
     {
         "type"        : "work",
+        "link"        : "https://youtu.be/OZcAjumIsOY",
+        "name"        : "Bad Apple!! by Unique Media",
+        "explanation" : "様々な媒体で再生されるBad Apple!!"
+    },
+    {
+        "type"        : "work",
         "link"        : "https://somethingonu.booth.pm/items/2739707",
         "name"        : "Vilia Cursor",
         "explanation" : "小説『壮大なこの世界へ』に登場するキャラクター『Vilia』のカーソル素材"
