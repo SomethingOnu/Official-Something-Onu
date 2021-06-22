@@ -144,6 +144,12 @@
         "name"        : "Nube Tool Box",
         "explanation" : "個人的に利用する機能やツールを纏めたガジェット"
     },
+    {
+        "type"        : "work",
+        "link"        : "https://github.com/SomethingOnu/AsMindIsNotBorn",
+        "name"        : "A Mind Is Not Born",
+        "explanation" : "よく分からないもの"
+    },
 
     {
         "type"        : "-category",
